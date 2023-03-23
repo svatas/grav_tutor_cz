@@ -3,6 +3,7 @@
 
 [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://github.com/svatas/AutoCompiler/commit/master)
 
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 
 # grav_tutor_cz
 Redakční systém GRAV : Výukové texty, videa a další materiál v češtině
